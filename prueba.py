@@ -1,4 +1,2 @@
-x=1 
-print(x)
-x+=1
-print(x)
+str="Hello"+"There"
+print(str)
