@@ -1,2 +1,1 @@
-str="Hello"+"There"
-print(str)
+print("Hi, and welcomew to python")
